@@ -1,5 +1,5 @@
 <template>
   <div>
-    <g-link class="logo" href="/"><g-image width="240" src="http://placekitten.com/200/300" /></g-link>
+    <g-link class="logo" href="/"><g-image width="80" src="/logo.png" /></g-link>
   </div>
 </template>

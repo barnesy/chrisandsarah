@@ -1,0 +1,48 @@
+@font-face {
+  font-family: BauhausPro-Light;
+  src: url("/BauhausPro-Light.otf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: BauhausPro-Medium;
+  src: url("/BauhausPro-Medium.otf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: BauhausPro-Bold;
+  src: url("/BauhausPro-Bold.otf");
+  font-weight: normal;
+}
+
+h1 {
+  font-family: "BauhausPro-Bold", sans-serif;
+}
+
+h2 {
+  font-family: "BauhausPro-Medium", sans-serif;
+  font-size: 3.8rem;
+}
+
+.footer {
+  background-color: black !important;
+
+  a {
+    color: #DD8143;
+  }
+}
+
+.nav a.logo {
+  display: flex;
+}
+
+a.logo, a.logo-inverted {
+  width: 8rem;
+  display: flex;
+
+  img {
+    max-width: 100%;
+  }
+}
+

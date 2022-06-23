@@ -1,4 +1,5 @@
 import '../../component-library/lib/assets/styles/global.scss';
+import './assets/styles.scss';
 
 import NavList from "./components/NavList";
 import Logo from "./components/Logo";
