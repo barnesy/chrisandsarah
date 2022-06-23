@@ -13,6 +13,13 @@
       </Header>
     </template>
 
+    <PageSection class="center narrow dark" bgColor="#4190CD">
+      <template #title>Don't forget to RSVP</template>
+      <template #support>
+        <p><a href="/rsvp">Click here &rarr;</a></p>
+      </template>
+    </PageSection>
+
     <PageSection class="center dark narrow" bgColor="black">
       <template #title>Parking</template>
       <template #support>
@@ -83,3 +90,5 @@
     </PageSection>
   </Directory>
 </template>
+
+<
