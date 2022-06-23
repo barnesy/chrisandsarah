@@ -23,7 +23,7 @@ h1 {
 h2 {
   font-family: "BauhausPro-Medium", sans-serif;
   font-size: 3.6rem;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
 }
 
 .footer {
@@ -54,4 +54,12 @@ a.logo, a.logo-inverted {
 .dark.page-section .content a {
   color: white;
 }
+
+
+@media (max-width: 800px) {
+  .page-header {
+    background-size: 300% !important;
+  }
+}
+
 
