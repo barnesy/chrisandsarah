@@ -14,7 +14,7 @@
     </template>
 
     <PageSection class="center narrow">
-      <template #title>Fill the form</template>
+      <template #title>Fill in the form</template>
       <template #support>
         <p></p>
       </template>
